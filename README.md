@@ -6,5 +6,5 @@ This project made use of bluetooth controllers along with relay board installed 
 ## Some Screenshots:
 
 ### Home Screen
-!(screenshots/home.png?raw=true "Home")
+![Home](screenshots/home.png?raw=true "Home")
 
